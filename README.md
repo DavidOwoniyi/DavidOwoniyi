@@ -5,7 +5,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=DavidOwoniyi&style=flat-square&color=blue" alt="s"/>
+  <img src="https://komarev.com/ghpvc/?username=DavidOwoniyi&style=flat-square&base=1000 alt=""/>
 </div>
 
 <div id="header" align="center">
