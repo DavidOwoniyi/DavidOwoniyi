@@ -11,17 +11,19 @@
 </div>
 
 <h1 align="center">
-  Hey there
+  Hi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+   I am David
 </h1>
 
-### About Me 🧑🏾‍💻
-
-I am an AI & Robotics Engineering enthusiasts <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lagos, Nigeria.
+### <p align="center">AI & Robotics enthusiasts <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lagos, Nigeria. </p>
 
 - 🔭 I’m working on a Machine Learning project particularly in the domain of Voice Command Recognition and Execution.
+  
 - 🌱 Currently exploring YouTube Tech Content creation.
+  
 - ⚡ In my free time I read valuable books, work on my YouTube videos and practice my faith.
+  
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social)](https://www.linkedin.com/in/david-owoniyi)
 
 ---
