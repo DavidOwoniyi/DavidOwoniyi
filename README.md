@@ -26,6 +26,8 @@
   
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social)](https://www.linkedin.com/in/david-owoniyi)
 
+- 👯‍♂️ Very open to collaborations and contributions
+
 ---
 
 ### Languages and Tools 🛠
