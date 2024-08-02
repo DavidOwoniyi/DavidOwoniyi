@@ -47,3 +47,7 @@
 ### LinkedIn Posts ✍🏾 
 - [Project: Face and Smile Detection in Videos](https://www.linkedin.com/posts/david-owoniyi_machinelearning-python-computervision-activity-7223793763284840448-xZ-3?utm_source=share&utm_medium=member_desktop)<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+### My Projects 👇🏾👇🏾👇🏾
