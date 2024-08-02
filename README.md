@@ -16,7 +16,7 @@
    I am David
 </h1>
 
-### <p align="center">AI & Robotics enthusiasts <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lagos, Nigeria. </p>
+### <p align="center">AI & Robotics enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lagos, Nigeria. </p>
 
 - 🔭 I’m working on a Machine Learning project particularly in the domain of Voice Command Recognition and Execution.
   
