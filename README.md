@@ -18,7 +18,7 @@
 
 ### <p align="center">AI & Robotics enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lagos, Nigeria. </p>
 
-- 🔭 I’m working on a Machine Learning project particularly in the domain of Voice Command Recognition and Execution.
+- 🔭 I’m working on a Machine Learning project particularly in the domain of Computer Vision and Natural Language Processing.
   
 - 🌱 Currently exploring YouTube Tech Content creation.
   
