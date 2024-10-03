@@ -41,6 +41,8 @@
 
 ---
 
+[![An image of @davidowoniyi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/davidowoniyi)](https://holopin.io/@davidowoniyi)
+
 ### My Stats ⚡
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DavidOwoniyi&theme=dark&background=000000)](https://git.io/streak-stats)
 
